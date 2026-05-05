@@ -1,0 +1,11 @@
+Car_Name,Year,Selling_Price,Kms_Driven,Fuel,Transmission
+Toyota,2018,800000,30000,Petrol,Manual
+Honda,2019,900000,20000,Diesel,Manual
+BMW,2020,2500000,15000,Petrol,Automatic
+Audi,2017,2200000,40000,Diesel,Automatic
+Toyota,2016,600000,50000,Petrol,Manual
+Honda,2018,750000,35000,Diesel,Manual
+BMW,2021,3000000,10000,Petrol,Automatic
+Audi,2019,2700000,20000,Diesel,Automatic
+Toyota,2020,850000,25000,Petrol,Manual
+Honda,2021,950000,15000,Diesel,Manual
